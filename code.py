@@ -1,5 +1,4 @@
 #ClaireTo
-#testHW2.py
 #12/10/2019
 
 #Part1: Simulating a die
